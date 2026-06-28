@@ -1,0 +1,21 @@
+{
+  "info": {
+    "version": ["0.0.11"],
+    "build_source": ["GitHub"]
+  },
+  "update_policy": {
+    "force_update_below": ["0.0.4"],
+    "blocked_versions": ["0.0.5", "0.0.9"]
+  },
+  "data": {
+    "contact": {
+      "last_updated": ["2026-06-28"]
+    },
+    "support_project": {
+      "last_updated": ["2026-06-28"]
+    },
+    "legal": {
+      "last_updated": ["2026-06-28"]
+    }
+  }
+}
