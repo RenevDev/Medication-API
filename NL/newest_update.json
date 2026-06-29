@@ -1,8 +1,8 @@
 {
   "update": {
     "title": ["Nieuwe update beschikbaar!"],
-    "message": ["We hebben nieuwe functies en prestatieverbeteringen aan de app toegevoegd. Update nu voor de beste ervaring."],
-    "button_text": ["Update downloaden"],
+    "message": ["We zijn bezig met de implementatie van een API voor Renev Medicatie die voor iedereen in te kijken is op GitHub. Alle API verzoeken gaan via medication.api.renev.nl, en de app vraagt alleen om data, en verstuurd geen data."],
+    "button_text": ["Update downloaden (niet beschikbaar)"],
     "download_url": ["https://github.com/renevdev/medication/releases/latest"]
   }
 }
