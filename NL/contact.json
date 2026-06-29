@@ -1,0 +1,16 @@
+{
+  "contact_methods": [
+    {
+      "id": ["discord"],
+      "icon": ["discord"],
+      "label": ["Discord"],
+      "url": ["https://discord.com"]
+    },
+    {
+      "id": ["email"],
+      "icon": ["mail"],
+      "label": ["Support"],
+      "url": ["mailto:info@renev.me"]
+    }
+  ]
+}
