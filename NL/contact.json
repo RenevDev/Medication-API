@@ -9,8 +9,14 @@
     {
       "id": ["email"],
       "icon": ["mail"],
-      "label": ["Support"],
+      "label": ["Email"],
       "url": ["mailto:info@renev.me"]
-    }
+    },
+    {
+      "id": ["website"],
+      "icon": ["globe"],
+      "label": ["Website"],
+      "url": ["https://renev.me"]
+    },
   ]
 }
