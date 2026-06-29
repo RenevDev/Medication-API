@@ -1,0 +1,8 @@
+{
+  "update": {
+    "title": ["Nieuwe update beschikbaar!"],
+    "message": ["We hebben nieuwe functies en prestatieverbeteringen aan de app toegevoegd. Update nu voor de beste ervaring."],
+    "button_text": ["Update downloaden"],
+    "download_url": ["https://github.com/renevdev/medication/releases/latest"]
+  }
+}
