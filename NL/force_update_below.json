@@ -1,0 +1,8 @@
+{
+  "update_below": {
+    "title": ["App-versie verouderd"],
+    "message": ["Je huidige app-versie wordt niet meer ondersteund. We zijn bezig met de implementatie van een openbare API voor Renev Medicatie via medication.api.renev.nl om de applicatie te verbeteren. De app haalt alleen data op en verstuurt geen gebruikersgegevens. Update de app om door te gaan."],
+    "button_text": ["Update downloaden"],
+    "download_url": ["https://github.com/renevdev/medication/releases/latest"]
+  }
+}
