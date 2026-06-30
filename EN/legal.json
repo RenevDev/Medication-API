@@ -1,0 +1,20 @@
+{
+  "legal": [
+    {
+      "id": ["privacy_policy"],
+      "icon": ["privacy_tip"],
+      "label": ["Privacy Policy"],
+      "title": ["Privacy Policy"],
+      "message": ["**Data Collection**\nYour privacy is our top priority. Renev Medication is built entirely according to privacy-by-design principles. The application only fetches data from our server and does not transmit, track, or collect any personal user data or app usage statistics.\n\n**Third-Party Services**\nAll API requests travel securely through medication.api.renev.nl. We do not integrate any third-party analytics, tracking SDKs, or advertisement networks that could compromise your device data.\n\n**Local Storage**\nAny data you input into the application, such as your medication schedules or logs, is stored strictly locally on your own device. No data is ever synced to an external cloud or database managed by us."],
+      "url": ["https://renevdev.github.io/medication/privacy"]
+    },
+    {
+      "id": ["terms_of_service"],
+      "icon": ["gavel"],
+      "label": ["Terms of Service"],
+      "title": ["Terms of Service"],
+      "message": ["**Acceptance of Terms**\nBy downloading and using Renev Medication, you agree to these basic terms. This application is currently in a beta-testing phase and is provided 'as-is' without any warranties.\n\n**Fair Use**\nOur public API infrastructure at medication.api.renev.nl is free to use for the application. Any automated attempts to abuse, spam, or overload our API endpoint will result in an immediate IP block."],
+      "url": ["https://renevdev.github.io/medication/terms"]
+    }
+  ]
+}
