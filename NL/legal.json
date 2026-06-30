@@ -1,0 +1,20 @@
+{
+  "legal": [
+    {
+      "id": ["privacy_policy"],
+      "icon": ["privacy_tip"],
+      "label": ["Privacybeleid"],
+      "title": ["Privacybeleid"],
+      "message": ["**Gegevensverzameling**\nJe privacy is onze hoogste prioriteit. Renev Medicatie is volledig gebouwd volgens privacy-by-design principes. De applicatie haalt alleen gegevens op van onze server en verstuurt, volgt of verzamelt geen persoonlijke gebruikersgegevens of app-gebruiksstatistieken.\n\n**Diensten van Derden**\nAlle API-verzoeken verlopen via een beveiligde verbinding met medication.api.renev.nl. We maken geen gebruik van analytische software van derden, tracking SDK's of advertentienetwerken die de gegevens op je apparaat in gevaar zouden kunnen brengen.\n\n**Lokale Opslag**\nAlle gegevens die je in de applicatie invoert, zoals je medicatieschema's of logboeken, worden strikt lokaal op je eigen apparaat opgeslagen. Er worden nooit gegevens gesynchroniseerd met een externe cloud of database die door ons wordt beheerd."],
+      "url": ["https://renevdev.github.io/medication/privacy"]
+    },
+    {
+      "id": ["terms_of_service"],
+      "icon": ["gavel"],
+      "label": ["Algemene Voorwaarden"],
+      "title": ["Algemene Voorwaarden"],
+      "message": ["**Acceptatie van Voorwaarden**\nDoor Renev Medicatie te downloaden en te gebruiken, ga je akkoord met deze basisvoorwaarden. Deze applicatie bevindt zich momenteel in een bèta-testfase en wordt geleverd 'as-is' zonder enige vorm van garantie.\n\n**Fair Use**\nOnze openbare API-infrastructuur op medication.api.renev.nl is gratis te gebruiken voor de applicatie. Elke geautomatiseerde poging om ons API-eindpunt te misbruiken, te spammen of te overbelasten zal resulteren in een onmiddellijke IP-blokkade."],
+      "url": ["https://renevdev.github.io/medication/terms"]
+    }
+  ]
+}
