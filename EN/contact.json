@@ -11,12 +11,6 @@
       "icon": ["mail"],
       "label": ["Email"],
       "url": ["mailto:info@renev.me"]
-    },
-    {
-      "id": ["website"],
-      "icon": ["globe"],
-      "label": ["Website"],
-      "url": ["https://renev.me"]
-    },
+    }
   ]
 }
