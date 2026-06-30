@@ -1,0 +1,16 @@
+{
+  "blocked_versions": {
+    "0.0.5": {
+      "title": ["Versie 0.0.5 Geblokkeerd"],
+      "message": ["Deze specifieke testversie bevat een kritieke fout in de database waardoor medicatiewekkers niet betrouwbaar afgaan. Update onmiddellijk naar de nieuwste versie om de app te blijven gebruiken."],
+      "button_text": ["Update downloaden"],
+      "download_url": ["https://github.com/renevdev/medication/releases/latest"]
+    },
+    "0.0.9": {
+      "title": ["Versie 0.0.9 Verlopen"],
+      "message": ["Versie 0.0.9 was een tijdelijke bètaversie voor het testen van de nieuwe interface. Deze testfase is inmiddels gesloten. Download de nieuwste stabiele versie via GitHub."],
+      "button_text": ["Naar de nieuwste bètarelease"],
+      "download_url": ["https://github.com/renevdev/medication/releases/latest"]
+    }
+  }
+}
