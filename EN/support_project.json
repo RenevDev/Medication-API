@@ -1,0 +1,10 @@
+{
+  "support_methods": [
+    {
+      "id": ["ko-fi"],
+      "icon": ["coffee"],
+      "label": ["Support on Ko-fi"],
+      "url": ["https://ko-fi.com/renev"]
+    }
+  ]
+}
